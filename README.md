@@ -75,7 +75,7 @@ python model.py
 ## 📂 Struktur Folder
 ```
 UTS_Praktikum_Machine-Learning/
-├── dataset_buys _comp.csv
+├── dataset_buys_comp.csv
 ├── model.py
 └── README.md
 ```
