@@ -74,8 +74,7 @@ python model.py
 
 ## 📂 Struktur Folder
 ```
-klasifikasi-kredit-uts/
-│
+UTS_Praktikum_Machine-Learning/
 ├── dataset_buys _comp.csv
 ├── model.py
 └── README.md
